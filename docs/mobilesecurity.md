@@ -242,6 +242,8 @@
 *   [Damn Vulnerable Android App](https://t.co/Pf99TtwuIJ) - DIVA (Damn insecure and vulnerable App) is an App intentionally designed to be insecure.
     
 *   [Owasp Goatdroid Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+
+*   [AndroGoat](https://github.com/satishpatnayak/AndroGoat) - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
     
 *   [ExploitMe labs by SecurityCompass](http://securitycompass.github.io/AndroidLabs/setup.html)
     
